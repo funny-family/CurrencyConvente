@@ -1,6 +1,6 @@
 # CurrencyConventer
 
-# Launch the project
+### Launch the project
 npm install
 then
 npm run dev
